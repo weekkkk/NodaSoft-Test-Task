@@ -1,2 +1,2 @@
 # NodaSoft-Test-Task
-Download project and ppen index.html file.
+Download project and open index.html file.
